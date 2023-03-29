@@ -1,0 +1,8 @@
+Cryptocurrency Converter Calcularto
+
+Amount To Calcuate
+Fiat Currencies     --->  United States Dollar "$" (USD)
+                    <---
+            50 Bitcoin (BTC) =  Amount Converted To (USD)
+
+            Refresh     Save This Conversion
